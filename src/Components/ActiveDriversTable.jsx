@@ -6,7 +6,7 @@ const ActiveDriversTable = () => {
     const driversData = [
         {
             appId: 1,
-            firstName: 'John',
+            firstName: 'Humanshi',
             lastName: 'Doe',
             email: 'john.doe@example.com',
             phone: '+1234567890',
